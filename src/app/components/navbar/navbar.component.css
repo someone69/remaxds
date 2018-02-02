@@ -1,0 +1,13 @@
+.navbar {
+    background-color: rgba(200, 200, 200, .7) !important;
+}
+
+.ballon {
+    max-height: 80px;
+    margin-bottom: -45px;
+    padding-left: 35px;
+}
+
+.nav-item a {
+    color: rgb(0, 0, 0) !important;
+}
